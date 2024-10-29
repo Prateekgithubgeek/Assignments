@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7828E7F-0CAE-44D7-A323-7F6D8AB5880D}|Assignment1.csproj|c:\\users\\pc\\source\\repos\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7828E7F-0CAE-44D7-A323-7F6D8AB5880D}|Assignment1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7828E7F-0CAE-44D7-A323-7F6D8AB5880D}|Assignment1.csproj|c:\\users\\pc\\source\\repos\\assignment1\\assignment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7828E7F-0CAE-44D7-A323-7F6D8AB5880D}|Assignment1.csproj|solutionrelative:assignment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment1",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Assignment1\\Assignment1.csproj",
+              "RelativeDocumentMoniker": "Assignment1.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Assignment1\\Assignment1.csproj",
+              "RelativeToolTip": "Assignment1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T05:06:15.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:05:01.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
