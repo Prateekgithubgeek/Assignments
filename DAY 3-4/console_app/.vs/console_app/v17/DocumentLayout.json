@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\console_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EEA654-6B81-447F-930C-70D482144E04}|console_app.csproj|c:\\users\\pc\\source\\repos\\console_app\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EEA654-6B81-447F-930C-70D482144E04}|console_app.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EEA654-6B81-447F-930C-70D482144E04}|console_app.csproj|c:\\users\\pc\\source\\repos\\console_app\\lambdademo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EEA654-6B81-447F-930C-70D482144E04}|console_app.csproj|solutionrelative:lambdademo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EEA654-6B81-447F-930C-70D482144E04}|console_app.csproj|c:\\users\\pc\\source\\repos\\console_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EEA654-6B81-447F-930C-70D482144E04}|console_app.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EEA654-6B81-447F-930C-70D482144E04}|console_app.csproj|c:\\users\\pc\\source\\repos\\console_app\\console_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3EEA654-6B81-447F-930C-70D482144E04}|console_app.csproj|solutionrelative:console_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\console_app\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\console_app\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:55:21.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LambdaDemo.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\console_app\\LambdaDemo.cs",
+              "RelativeDocumentMoniker": "LambdaDemo.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\console_app\\LambdaDemo.cs",
+              "RelativeToolTip": "LambdaDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:55:19.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "console_app",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\console_app\\console_app.csproj",
+              "RelativeDocumentMoniker": "console_app.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\console_app\\console_app.csproj",
+              "RelativeToolTip": "console_app.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T04:54:11.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\console_app\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\console_app\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:49:33.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
